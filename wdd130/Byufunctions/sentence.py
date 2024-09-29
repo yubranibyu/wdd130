@@ -19,32 +19,50 @@ def make_sentence():
     words = get_determiner(quantity=1)
     noun = get_noun(quantity=1)
     verbs = get_verb(quantity=1, tense = "past")
-    print(f"{words.capitalize()} {noun} {verbs}")
+    preposition = get_preposition()
+    prepositional_phrase = get_prepositional_phrase(quantity= 1) 
+    adverb = get_adverb()
+    print(f"{words.capitalize()} {noun} {verbs} {preposition} {prepositional_phrase} {adverb}")
 
     words = get_determiner(quantity=1)
     noun = get_noun(quantity=1)
     verbs = get_verb(quantity=1, tense = "present")
-    print(f"{words.capitalize()} {noun} {verbs}")
+    preposition = get_preposition()
+    prepositional_phrase = get_prepositional_phrase(quantity= 1) 
+    adverb = get_adverb()
+    print(f"{words.capitalize()} {noun} {verbs} {preposition} {prepositional_phrase} {adverb}")
 
     words = get_determiner(quantity=1)
     noun = get_noun(quantity=1)
     verbs = get_verb(quantity=1, tense="future")
-    print(f"{words.capitalize()} {noun} {verbs}")
+    preposition = get_preposition()
+    prepositional_phrase = get_prepositional_phrase(quantity= 1) 
+    adverb = get_adverb()
+    print(f"{words.capitalize()} {noun} {verbs} {preposition} {prepositional_phrase} {adverb}")
 
     words = get_determiner(quantity=0)
     noun = get_noun(quantity=0)
     verbs = get_verb(quantity=0, tense = "past")
-    print(f"{words.capitalize()} {noun} {verbs}")
+    preposition = get_preposition()
+    prepositional_phrase = get_prepositional_phrase(quantity= 0) 
+    adverb = get_adverb()
+    print(f"{words.capitalize()} {noun} {verbs} {preposition} {prepositional_phrase} {adverb}")
 
     words = get_determiner(quantity=0)
     noun = get_noun(quantity=0)
     verbs = get_verb(quantity=0,tense ="present")
-    print(f"{words.capitalize()} {noun} {verbs}")
+    preposition = get_preposition()
+    prepositional_phrase = get_prepositional_phrase(quantity= 0) 
+    adverb = get_adverb()
+    print(f"{words.capitalize()} {noun} {verbs} {preposition} {prepositional_phrase} {adverb}")
 
     words = get_determiner(quantity=0)
     noun = get_noun(quantity=0)
     verbs = get_verb(quantity=0, tense = "future")
-    print(f"{words.capitalize()} {noun} {verbs}")
+    preposition = get_preposition()
+    prepositional_phrase = get_prepositional_phrase(quantity= 0) 
+    adverb = get_adverb()
+    print(f"{words.capitalize()} {noun} {verbs} {preposition} {prepositional_phrase} {adverb}")
     
 
     
@@ -56,7 +74,7 @@ def get_determiner(quantity):
       words = ["a", "one", "the"]
   if quantity == 0:
       words = ["some", "many", "the"]
-  # Randomly choose and return a determiner.
+  
   word = random.choice(words)
   
   return word
@@ -93,6 +111,31 @@ def get_verb(quantity, tense):
     
     verbs = random.choice(verbs)
     return(verbs)
+def get_preposition():
+    preposition = ["about", "above", "across", "after", "along",
+      "around", "at", "before", "behind", "below",
+      "beyond", "by", "despite", "except", "for",
+      "from", "in", "into", "near", "of",
+      "off", "on", "onto", "out", "over",
+      "past", "to", "under", "with", "without"]  
+
+    preposition = random.choice(preposition)
+    return preposition
+def get_prepositional_phrase(quantity):
+    
+    if quantity == 1:
+      prepositional_phrase = ["the car", "one child", "the toy", "a rabbit", "one dog", "a cat", "the house", "a country"]
+    else:
+      prepositional_phrase = ["the cars", "some childrens", "the toys", "many rabbits", "many dogs", "some cats", "The houses", "some countries"]
+
+    prepositional_phrase = random.choice(prepositional_phrase)
+
+    return prepositional_phrase
+
+def get_adverb():
+    adverb = ["around", "here", "Above", "there", "inside", "outside", "between", "over", "enough", "often", "sometimes", "normally", "out"]
+    adverb = random.choice(adverb)
+    return adverb
 
 
 
