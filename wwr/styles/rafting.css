@@ -1,0 +1,25 @@
+
+:root {--primary-color: #61BB25;
+    --secundary-color: #1488E1;
+    --accentt1-color: rgb(105, 91, 58);
+    --accentt2-color: rgb(160, 187, 180);
+
+
+}
+
+.hero {position: relative;
+
+    article {
+        position: absolute;
+    }
+    img {
+        float: right;
+        
+        ;
+    }
+        
+    h1 {
+            position: absolute;
+    
+        }
+    }
