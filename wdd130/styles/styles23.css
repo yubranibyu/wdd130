@@ -1,0 +1,40 @@
+h1 {
+    color: #999BBB;
+    font-size: larger;
+    margin: 10px;
+    border: 1px solid rgba(0, 0, 0, .1);
+    padding: 10px;
+  }
+
+  section {
+	width: 75vw;
+	margin: 1rem auto;
+	background-color: #eee;
+	padding: 1rem;
+	border: 1px solid rgba(0,0,0,.1);
+}
+
+p {
+	text-align: justify;
+}
+
+.col1 img {
+	float: right;
+	margin: 0 0 15px 15px;
+	border: 1px solid rgba(0,0,0,.3);
+	box-shadow: 0 0 30px #777;
+    
+    clear: both;
+}
+
+footer {
+	border-top: 1px solid #555;
+	padding-top: 5px;
+	
+    position: absolute;
+
+	/***** 
+   Remove the comment below on the declaration to see the clearing the float fix result with the footer.
+  ****/  
+  /* clear: both; */
+}
