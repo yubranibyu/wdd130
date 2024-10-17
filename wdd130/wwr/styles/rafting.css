@@ -116,9 +116,7 @@ aside {
     grid-gap: 10%;
     
 
-    article {
-        position: absolute;
-    }
+
     img {
         float: right;
         width: 350px;
