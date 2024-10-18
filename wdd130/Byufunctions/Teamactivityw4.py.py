@@ -24,7 +24,7 @@ def main():
     # Get an I-Number from the user.
     inumber = input("Please enter an I-Number (xx-xxx-xxxx): ")
 
-    # The I-Numbers are stored in the CSV file as digits only (without
+    # The I-Numbers are stored in the CSV efile as digits only (without
     # any dashes), so we remove all dashes from the user's input.
     inumber = inumber.replace("-", "")
 
