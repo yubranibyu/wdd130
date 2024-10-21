@@ -8,90 +8,83 @@
 }
 
 body {
+    
+    margin: 0px;
+    
     background-color: var(--accentt2-color);
-    header { 
-        display: grid;
-       
-        
-        grid-gap: 20px;
-       
-        
-        p {
-            display: grid;
-            justify-content: center;
-            margin: 5%;
-            border: 1px solid ;
-            align-items: center;
-            
-            
-        }
-        h1 {
-            display: grid;
-            justify-content: center;
-            align-items: center;
-            
-        }
-        .grid {
-            display: flex;
-            justify-content: space-around;
-            border: 1px solid;
-            display: grid;
-            height: 200px;
-            width: 100%;
-            align-items: center;
-             nav{
-                display: flex;
-                flex-direction: row;
-                justify-content: center;
-                align-items: center;
-                height: 200px;
-                
+    
+    
+}
+header {
+    display: grid;
+    margin: 0px;
+}
+
+
+.main_about {
+    margin: 20px;
+    
+}
 
                 
-                
+           
 
-                img {
-                    margin-left: 20%;
-                    margin-right: 60%;
+img {
+    margin-left: 20%;
+    margin-right: 60%;
                     
-                }
                 
-                
+}
 
-                a {
-                    padding: 10px;
-                    border: 1px solid black;
-                    align-items: center;
-                    color: black;
-                    text-decoration: none;
-                }
-             }
+
+a {
+    padding: 10px;
+    border: 1px solid black;
+    align-items: center;
+    color: black;
+    text-decoration: none;
+                
+}
+             
             
             
-        }
+        
 
-    }
+    
+
+.grid {
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+}
+.menu{
+
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        height: 200px;
 }
 .footer_img {
     display: flex;
+    margin: 5%;
 }
 header, footer, .grid {
     margin: 0 auto;
     max-width: 840px;
 }
-main {
 
-    section {
+
             
-        div {
+.imgadventure {
         display: flex;
+        margin: 5px;
         
-        justify-content: center;
-        align-items: center;
-        gap: 5%;
-        }
-    }
-    h2 {
+        
+        
+}
+    
+.adventure_h2{
         display: grid;
         justify-content: center;
 
@@ -100,38 +93,37 @@ main {
     }
 
 
-}
+
 
 aside {
     
     position: relative;
 }
-.hero {position: relative;
+.hero {
+    
+    position: relative;
     display: grid;
     grid-template-columns: 25% 25% 25%;
     border: 1px solid;
     justify-content: center;
     grid-gap: 10%;
     
+}
 
-    
-    img {
+.heroimg {
         float: right;
         width: 350px;
         height: 350px;
         
-        ;
+        
     }
         
-    h1 {
-            position: absolute;
-    
-        }
-    }
+
 .imgadventure {
-    width: 100%;
+    
     display: flex;
     gap: 1px;
+    border: 1px #000;
     
     
     
@@ -139,11 +131,18 @@ aside {
 footer {
     display: grid;
     justify-content: center;
+    width: 100%;
 }
 .footer_img {
     gap: 0.1px;
-    margin-left: 130%;
+    margin-left: 90%;
+    
+    width: 460px;
+    
 
+}
+.social_media {
+    border: none;
 }
 h1 {
     margin: 1rem;
@@ -153,12 +152,12 @@ h1 {
 
 }
 form {
-    width: 400px;
+    width: 350px;
     margin: 0 auto;
     padding: 1rem;
     border:  1px solid rgba(0, 0, 0, 0.1);
     border-radius: 0.5rem;
-    background-color: #eee;
+    background-color: var(--accentt2-color);
     display: grid;
 }
 fieldset {
@@ -201,7 +200,7 @@ button {
     font-size: 1.2rem;
 }
 button:hover {
-    background-color: darkgreen;
+    background-color: var(--primary-color);
 }
 footer { 
     margin: 1rem auto 0;
@@ -215,15 +214,24 @@ footer {
 .form-item {
     display: grid;
     align-items: center;
-    border: 1px, 1px, 1px, 1px, solid, #000;
+    border: 1px solid #000;
 }
-
-.contact-us-content {
-    max-width: 100%;
-    background-color: gray;
-    display: grid;
+.main_contact {
     display: flex;
     justify-content: center;
-    gap: 20px;
     
+    
+}
+.contact-us-content {
+    
+    background-color: var(--accentt2-color);
+    width: 800px;
+    display: flex;
+    flex-direction: row-reverse;
+    
+    
+    
+}
+.contact-information {
+    width: 400px;
 }

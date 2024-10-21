@@ -18,7 +18,7 @@
 </head>
 <body>
     <header>
-        <div class="grid"><nav>
+        <div class="grid"><nav class="menu">
             <img src="images/logo.jpg" alt="Logo">
             <a  href="https://yubranibyu.github.io/wdd130/wwr/Home.html">Home</a>
             <a href="https://yubranibyu.github.io/wdd130/wwr/about.html">About</a>
@@ -28,8 +28,13 @@
         </nav>
         </div>
 
+       
+    </header>
+    <main class="main_contact" >
+
+
         <div class="contact-us-content">
-            <form action="">
+            <form action="contact-us">
                 <fieldset>
                     <legend>Contact information</legend>
                     <div class="form-item column2">
@@ -44,69 +49,62 @@
 
                 </fieldset>
                 <fieldset>
-                    <legend>Questions</legend>
-                    <label for="browser">What is your favorite internet browser</label>
-                    <select name="browser" id="browser">
-                        <option value="chrome">--</option>
-                        <option value="chrome">Chrome</option>
-                        <option value="Firefox">Firefox</option>
-                        <option value="Safari">Safari</option>
-                        <option value="Edge">Edge</option>
-                        <option value="Brave">Brave</option>
-                        <option value="Other">Other</option>
-                    </select>
-                    <label for="pet">Do you have a household pet?</label>
-                    <input type="checkbox" name="pet" id="pet">
-                    <label for="feedback">Kust the places you have lived:</label>
-                    <textarea name="feedback" id="feedback" rows="4" placeholder="Stillwater Florida, Amsterdam Netherlands, Tibuktu Mali"></textarea>
+                    <legend>Leave us a message</legend>
+                    <label class="website_question" id="website-suggestion-question">What is the subject of your message?</label>
+                    <div class="general-inquiry">
+                        <input type="radio" name="general-inquiry-input1" id="general-inquiry-input">
+                        <label class="website-suggestion-inquiry" id="general-inquiry-label">General Inquiry</label>
+                    </div>
+                    <div class="reservation-question">
+                        <input type="radio" name="reservation-question" id="reservation-question">
+                        <label for="reservation-question">Reservation Question</label>
+                    </div>
+                    <div class="website-suggestion">
+                        <input type="radio" name="website-suggestion" id="website-suggestion">
+                        <label for="website-suggestion">Website Suggestion</label>
+                    </div>
                     
+                    <textarea name="feedback" id="feedback"></textarea>
+                    <div>
+                        <input type="checkbox" name="pet" id="pet">
+                        <label for="feedback">Please subscribe me to the monthly newsletter</label>
+                    </div>
                 </fieldset>
 
-                <button type="submit">Submit Poll</button>
+                <button type="submit">Submit message</button>
             </form>
             <div class="contact-information">
+
                 <div class="adress">
-                    <h2>Adress: </h2>
-                    <p></p>
+                    <h2>Adress: 101 E Viking St, Rexburg, ID 83460, EE. UU. </h2>
+                    
                 </div>
                 <div class="phone-number">
-                    <h2>Phone number </h2>
-                    <p></p>
+                    <h2 class="phone">Phone number: +1 208-496-1411 </h2>
+                    
                 </div>
                 <div class="email-adress">
-                    <h2>Email</h2>
-                    <p></p>
+                    <h2 class="">Email: admissions@byui.edu</h2>
+                    
                 </div>
                 <div class="map">
                     <h2>MAP</h2>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d68369.38611254035!2d-111.98344038006199!3d40.77239321238391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8752f508e4890ee9%3A0x8c57d6417504663d!2sTemple%20Square!5e0!3m2!1ses-419!2sbr!4v1729309625637!5m2!1ses-419!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.843517470085!2d-111.78344102487885!3d43.817605141783616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53540afe27e4d391%3A0x51d7e726a01cb0fd!2s101%20E%20Viking%20St%2C%20Rexburg%2C%20ID%2083460%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sbr!4v1729471296052!5m2!1ses-419!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
-                </div>
-                
             </div>
+                
+            
                    
         </div>
-    </header>
-    <main>
-        
-        
-    
-        
-        <section>
-
-            
-        </section>
-        
-
     </main>
     <aside class="box"></aside>
     <footer>
         <p>&#128640;&#128512;&#169; 1992 Rafting  Heroes Yubrani Yaguaramay   &#174;&#128512;&#128640;</p>
         <div class="footer_img">
-           <a href="https://www.facebook.com/"><figure><img src="images/face.png" alt="Facebook" width="50" height="50"></figure></a>
-           <a href="https://www.instagram.com/"><figure><img src="images/insta.jpeg" alt="Instagram" width="50" height="50"></figure></a>
-           <a href="https://www.tiktok.com/"><figure><img src="images/tiktok.png" alt="Tiktok" width="50" height="50"></figure></a>
-        </div>
+            <a href="https://www.facebook.com/" class="social_media"><figure><img src="images/face.png" alt="Facebook" width="50" height="50"></figure></a>
+            <a href="https://www.instagram.com/" class="social_media"><figure><img src="images/insta.jpeg" alt="Instagram" width="50" height="50"></figure></a>
+            <a href="https://www.tiktok.com/" class="social_media"><figure><img src="images/tiktok.png" alt="Tiktok" width="50" height="50"></figure></a>
+         </div>
     </footer>
     
 </body>
