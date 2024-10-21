@@ -6,7 +6,9 @@
 
 
 }
-
+* {
+    font-family: "Poppins", sans-serif;
+}
 body {
     
     margin: 0px;
@@ -207,8 +209,8 @@ footer {
     width: 650px;
     text-align: center;
     font-size: 0.8em;
-    color: #777;
-    border-top: 1px solid #ccc;
+    color: black;
+    border-top: 1px solid black;
 
 }
 .form-item {
@@ -219,6 +221,8 @@ footer {
 .main_contact {
     display: flex;
     justify-content: center;
+    margin-left: 5%;
+    
     
     
 }
@@ -234,4 +238,15 @@ footer {
 }
 .contact-information {
     width: 400px;
+}
+.contact_title {
+ text-transform: capitalize;
+ color: #000;
+ font-size: 50px;
+ height: 100px;
+ text-decoration: dotted;
+}
+.happy_employees {
+    display: flex;
+    
 }
