@@ -211,6 +211,7 @@ footer {
     font-size: 0.8em;
     color: black;
     border-top: 1px solid black;
+    
 
 }
 .form-item {
@@ -249,4 +250,24 @@ footer {
 .happy_employees {
     display: flex;
     
+}
+.wireframelogo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.logolink {
+    border: none;
+    margin-left: 8%;
+}
+.logodescription {
+
+    font-size: 20px;
+
+}
+
+.subtitleimghappy {
+    margin-left: 30%;
+    text-align: center;
 }
