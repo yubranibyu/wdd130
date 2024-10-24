@@ -1,0 +1,501 @@
+hello,hay-lo
+world,uerld
+friend,fren
+family,fami-li
+love,lav
+happy,japi
+house,haus
+car,kar
+school,eskuul
+teacher,ti-chér
+student,estú-dent
+book,buk
+read,ri-d
+write,rait
+run,ran
+jump,yump
+eat,it
+drink,dringk
+music,mú-sik
+movie,mu-vi
+phone,fohn
+computer,kom-piú-ter
+game,gueim
+sport,esport
+football,fut-bol
+basketball,ba-ske-tbol
+musician,mu-si-shén
+doctor,dok-tor
+nurse,ners
+hospital,hos-pi-tal
+city,sí-ty
+town,taun
+village,ví-lich
+country,kán-tri
+language,lán-guich
+culture,kál-chur
+history,hi-sto-ri
+science,sai-ns
+mathematics,ma-te-má-ti-kas
+art,art
+music,mú-sik
+dance,dans
+theater,ti-á-tro
+hotel,ho-tel
+restaurant,rest-o-ran
+park,par-k
+garden,jar-din
+beach,bi-ch
+mountain,moun-ten
+river,ri-ber
+lake,leik
+forest,for-est
+tree,tri
+flower,flor-er
+dog,dog
+cat,kat
+bird,bird
+fish,fi-sh
+sun,san
+moon,mu-n
+star,estar
+cloud,klaud
+rain,lluvia
+snow,es-no
+wind,viento
+cloudy,nublado
+sunny,soleado
+hot,kaliente
+cold,frío
+warm,kaliente
+beautiful,bell-ísimo
+ugly,fi-o
+happy,japi
+sad,triste
+angry,enojado
+surprised,sor-prendido
+bored,aburrido
+excited,em-o-sionado
+tired,kán-sado
+hungry,hambriento
+thirsty,sediento
+full,lleno
+empty,vá-cio
+big,grande
+small,pequeño
+long,largo
+short,korto
+old,antiguo
+new,nuevo
+fast,rá-pido
+slow,lento
+fast,rá-pido
+expensive,kar-o
+cheap,barato
+good,bueno
+bad,malo
+right,de-re-cha
+left,iz-ki-er-da
+up,ar-riba
+down,abajo
+open,abi-erto
+close,se-rra-do
+push,em-pu-jar
+pull,tir-ar
+start,kom-en-sar
+stop,pa-ra-r
+continue,kon-ti-nuar
+look,mir-ar
+listen,es-kuch-ar
+talk,hab-lar
+run,kor-rer
+jump,brin-kar
+walk,kam-i-nar
+stand,es-tar
+sit,se-ntar
+lie,men-tir
+truth,ver-dad
+lie,men-tir
+true,ver-dad
+false,fal-so
+yes,sí
+no,no
+maybe,ká-pas
+perhaps,ká-pas
+always,sien-pre
+never,jam-ás
+every,todo
+some,al-gunos
+none,ninguno
+all,todo
+many,mu-chos
+few,pocos
+one,uno
+two,dos
+three,tres
+four,kua-tro
+five,sin-ko
+six,seis
+seven,sie-te
+eight,o-cho
+nine,nu-eve
+ten,diez
+hundred,sien
+thousand,mil
+million,mil-yón
+billion,mil-yón
+trillion,bil-yón
+accelerate,ak-se-le-ra
+banana,ba-na-na
+catalyst,kat-a-list
+disagree,des-a-gree
+ecosystem,e-ko-sis-tem
+fluctuate,fluk-tu-a
+generous,je-ne-roso
+hydrogen,hi-dro-je-n
+inspire,in-spi-ra
+jubilant,ju-bi-lant
+kaleidoscope,ka-le-i-do-skop
+luminescent,lu-mi-nes-cent
+melodious,me-lo-di-o-so
+narrative,na-ra-tiv
+oceanic,o-se-anik
+precise,pre-sis
+quaint,kweint
+reclusive,re-klu-siv
+sophisticated,so-fis-ti-ka-do
+tactful,tak-tful
+ubiquitous,yu-bi-kuo-s
+vivacious,vi-va-shus
+wistful,wis-tful
+xenon,kseno-n
+yearning,yer-ning
+zephyr,se-fo-r
+abundance,a-bun-dans
+bolt,bot
+celibacy,se-li-ba-si
+dilemma,di-le-ma
+elegance,e-le-gan-s
+flawless,flo-les
+gigantic,dzhigántik
+hypothesis,hi-po-te-sis
+inertia,in-er-sia
+jocular,jo-ku-lar
+kinetic,ki-netik
+luminous,lu-mi-no-s
+malleable,ma-le-a-bles
+narrator,na-ra-tor
+obscure,ob-skur
+pensive,pen-siv
+quixotic,kwik-sotik
+reclusive,re-klu-siv
+sediment,se-di-ment
+tactician,tak-ti-shan
+unbridled,un-bri-dld
+venerable,ve-ner-a-bles
+wistful,wis-tful
+xanthan,zan-tan
+yearling,yer-ling
+zircon,zir-kon
+palabra,pronunciación
+acoustic,ak-u-stik
+beneficial,be-ne-fi-shal
+celestial,se-les-tial
+dissident,dis-i-dent
+eccentric,ek-sen-trik
+florid,flor-id
+gestural,jes-tu-ral
+hierarchical,hi-er-ar-kal
+insouciant,in-su-ci-ant
+jocular,jo-ku-lar
+kaleidoscopic,ka-le-i-do-skopik
+lachrymose,lak-ri-mos
+melodic,me-lo-dik
+narcissism,nar-si-siz-m
+oceanography,o-se-an-og-ra-fia
+papillon,pa-pi-yon
+quandary,kwan-da-ri
+reclusive,re-klu-siv
+sagacious,sag-ay-shus
+tintinnabulation,tin-ti-nab-u-lay-shun
+ubiquity,yu-bi-kwi-ti
+vivisection,vi-vi-sek-shun
+welter,wel-ter
+xenophobia,zeno-fo-bia
+yearn,yern
+zephyrine,se-fo-rene
+abstruse,ab-stroos
+calliope,kal-li-ope
+defenestration,de-fen-es-tray-shun
+ephemeral,ef-em-er-al
+floraison,flo-ray-són
+garrulous,gar-oo-lus
+heliotropism,he-li-ot-ro-piz-m
+insularity,in-soo-lar-i-tee
+jargon,jar-gón
+kibosh,ki-bosh
+lachrymose,lak-ri-mos
+mellifluous,me-li-flu-us
+nematode,ne-ma-to-de
+obfuscate,ob-fus-kate
+peregrination,pe-re-grin-ay-shun
+quixotry,kwik-sot-ree
+reclusiveness,re-kloo-siv-nes
+selenite,se-le-nite
+tintinnabulum,tin-ti-nab-u-lum
+uxoricide,uk-so-ri-sid
+viviparous,vi-vi-par-us
+wamble,wam-bul
+xanthosis,zan-tho-sis
+yonder,yon-der
+zouave,zoo-ahv
+abeyance,ab-ee-ans
+cavalcade,kav-al-kayd
+defalcation,de-fal-kay-shun
+ephemeron,ef-em-er-on
+fluminous,floo-mi-nus
+gallimaufry,gal-i-maw-free
+heliography,he-lee-og-ra-fee
+inscrutable,in-skroo-ta-bul
+jargogle,jar-gul
+kibitzer,ki-bi-ter
+lucubration,loo-kyoo-bray-shun
+marmoreal,mahr-mo-ree-uhl
+necessitation,ne-se-si-tay-shun
+obtrusion,ob-tru-zhun
+palingenesis,pal-in-jen-ee-sis
+quincunx,kwin-kuhnks
+recreancy,re-kree-uhn-see
+saccadic,sak-ad-ik
+tintinnabulant,tin-ti-nab-u-lnt
+uxorial,uk-soh-ree-uhl
+velleity,ve-lee-i-tee
+wamble,wam-bul
+xanthic,zan-thik
+yare,yair
+zestful,zest-ful
+abstractive,ab-strek-tiv
+cachinnation,kak-in-nay-shun
+defenestrated,de-fen-es-tray-ted
+ephemeris,ef-em-er-is
+flamboyant,flam-boy-ant
+galvanization,gal-va-ni-zay-shun
+heliotropism,he-li-ot-ro-piz-m
+incarceration,in-kar-ser-kay-shun
+jocularity,jok-yoo-lar-i-tee
+kinesiology,kin-ee-see-ol-uh-jee
+lachrymosity,lak-ri-mos-i-tee
+malleability,mal-ee-uh-bil-i-tee
+narcissistically,nar-si-sis-tik-lee
+obfuscation,ob-fus-kay-shun
+paleontology,pal-ee-on-tol-uh-jee
+quintessence,kwin-tes-ns
+reclusively,re-kloo-siv-lee
+sedimentation,sed-i-men-tay-shun
+tintinnabulation,tin-ti-nab-u-lay-shun
+ubiquitousness,yu-bik-wi-tus-nes
+vivification,vi-vi-fi-kay-shun
+wistfulness,wist-ful-nes
+xanthopathy,zan-tho-puh-thee
+yonderly,yon-der-lee
+zestfulness,zest-ful-nes
+abacterial,ab-bak-tee-re-al
+cacophonous,kak-uh-fo-nus
+defibrillator,de-fib-ruh-lay-tor
+ephemeralization,ef-em-er-al-i-zay-shun
+floricultural,flo-ri-kuhl-chur-al
+galvanoplasty,gal-va-noh-plas-tee
+heliolatry,he-lee-oh-luh-tree
+incomprehensibility,in-kom-pre-hen-si-bil-i-tee
+jocularly,jo-kyoo-lar-lee
+kinesitherapy,kin-ee-see-ther-uh-pee
+lachrymatory,lak-ri-muh-tor-ee
+magnanimously,mag-nuh-nim-uh-slee
+narcissisticly,nar-si-sis-tik-lee
+oceanographical,o-shuh-nog-ruh-fik-al
+paleoclimatology,pal-ee-oh-kli-muh-tol-uh-jee
+quintessential,kwin-tes-en-shul
+reductively,re-dukt-iv-lee
+sedimentologically,sed-i-men-tol-uh-jik-lee
+tintinnabulatory,tin-ti-nab-yoo-luh-tree
+ubiquitously,yu-bik-wi-tus-lee
+viviparously,vi-vip-er-uh-slee
+wistfully,wist-ful-lee
+xanthochroism,zan-tho-kroh-iz-uhm
+yondermost,yon-der-mohst
+zesty,zest-ee
+abaxial,ab-ak-see-al
+cachexia,kak-ek-see-uh
+defoliation,de-foh-lee-ay-shun
+eigenvalue,ay-gen-val-yoo
+fluctuation,fluk-tu-ay-shun
+galvanization,gal-va-ni-zay-shun
+What, wat
+Where, wer
+When, wen
+How, how
+Why, way
+Hello, he-lo
+Goodbye, good-bay
+Yes, yes
+No, no
+Maybe, may-be
+Okay, oh-kei
+Thank you, thank yu
+Sorry, so-ri
+Excuse me, eks-kyooz me
+Help, help
+Run, run
+Jump, jump
+Happy, hap-ee
+Sad, sad
+Home, ho-m
+Love, luv
+Time, taym
+Friend, frend
+Family, fam-i-lee
+Work, wurk
+Play, play
+Learn, lern
+Live, liv
+Travel, trav-el
+Food, food
+Water, wah-ter
+Sleep, slee-p
+Who, hoo
+What, wat
+Where, wer
+When, wen
+Why, way
+How, how
+Which, wich
+Whose, hooz
+Whom, hum
+Who's, hooz
+What's, wats
+Where's, werz
+When's, wenz
+Why's, ways
+How's, howz
+Do, doo
+Does, duz
+Did, did
+Will, wil
+Would, wood
+Can, kan
+Could, kud
+May, may
+Might, mayt
+Shall, shal
+Should, shud
+Must, mast
+Happy, Hápi
+Sad, Sád
+Angry, Ángri
+Scared, Eskérd
+Surprised, Sor-práizd
+Excited, Ex-sáited
+Tired, Táird
+Confused, Kon-fyúzd
+Disappointed, Des-apóinted
+Anxious, Ánkshas
+Calm, Kálm
+Joyful, Joy-fúl
+Loved, Lávd
+Proud, Práud
+Euphoric, Yú-forik
+Discouraged, Des-kuríd
+Hopeful, Hópful
+Grateful, Grétfúl
+Humbled, Hám-bld
+Irritated, Ir-ritéd
+Motivated, Mo-tivéid
+Optimistic, Op-ti-místik
+Patient, Pashént
+Lost, Lóst
+Fearful, Fir-fúl
+Delighted, De-láitid
+Depressed, De-présid
+Ecstatic, Ek-s­tá­tik
+Sushi, Súshi
+Taco, Táko
+Burrito, Buríto
+Coke, Kók
+Pepsi, Pépsi
+Beer, Bír
+Wine, Wáin
+Cake, Kek
+Donut, Donát
+Pizza Slice, Pítsa Sláis
+Breakfast, Brék-fest
+Lunch, Lánch
+Dinner, Dínner
+Pizza, Pítsa
+Burger, Bórguer
+Sandwich, Sándwich
+Salad, Salá
+Fries, Fráis
+Chicken, Chikén
+Steak, Estek
+Shrimp, Chíramp
+Ice Cream, Ais Krim
+Coffee, Kófee
+Tea, Ti
+Water, Wóter
+Juice, Yús
+Milk, Míl
+Bread, Bréd
+Egg, Eg
+Rice, Ráis
+Pasta, Pásta
+Hello, Heló
+Hi, Hai
+Hey, Hei
+How are you?, Haw ar yu?
+What's up?, Wats áp?
+Good morning, Gud móning
+Good afternoon, Gud af-tér-nun
+Good evening, Gud i-véning
+Goodbye, Gud-bái
+See you later, Si yu lé-ter
+Bye, Bái
+Take care, Teik keir
+How's it going?, Hawz it góing?
+What's new?, Wats nu?
+Nice to meet you, Nais tu mit yu
+Long time no see, Long táim no sí
+I'm fine thank you, Aim fain zank yu
+You're welcome, Yuér welkom
+Excuse me, Eks-kyuz mí
+Sorry, Só-ri
+Yes please, Yes, plíz
+No thank you, Nóu zank yu
+Maybe, Méi-bi
+Strong, Stróng
+Weak, Wíak
+Clean, Klín
+Dirty, Dér-ti
+Hot, Jot
+Cold, Kóuld
+New, Nyú
+Old, Ould
+Expensive, Ek-spen-siv
+Cheap, Chip
+Simple, Sím-pl
+Complex, Kóm-pleks
+Interesting, In-té-res-ting
+Boring, Bó-ring
+Good, Gud
+Bad, Bád
+Big, Big
+Small, Smól
+Happy, Hápi
+Sad, Sád
+Easy, Izí
+Hard, Hard
+Fast, Fást
+Slow, Sló
+Beautiful, Byú-ti-ful
+Ugly, Ág-li
+
+

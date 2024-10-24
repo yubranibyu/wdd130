@@ -33,9 +33,10 @@ aside {
     background-color: #eee ;
     color:#333 ;
     text-align: center;
-    p {
-        padding: 0px;
-    }
+    
+}
+.text_aside {
+    padding: 0px;
 }
 .imgriogrande {
     width: 200px;

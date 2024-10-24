@@ -1,3 +1,6 @@
+main {
+    max-width: 840px;
+}
 nav {
     background-color:  steelblue;
     padding: 10px;
@@ -33,17 +36,18 @@ aside {
     background-color: #eee ;
     color:#333 ;
     text-align: center;
-    p {
-        padding: 0px;
-    }
+   
+}
+.text_aside {
+    padding: 0px;
 }
 .imgriogrande {
     width: 200px;
     height: auto;
 }
 
-main img {
-    width: 150;
+.main_img {
+    width: 150px;
     height: auto;
 }
 footer {
