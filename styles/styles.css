@@ -45,7 +45,9 @@ aside {
     width: 200px;
     height: auto;
 }
-
+p {
+    padding: 0;
+}
 .main_img {
     width: 150px;
     height: auto;
@@ -55,3 +57,8 @@ footer {
     border-top: 1px solid #000;
     text-align: center;
 }
+aside img {
+    width: 200px;
+    height: auto;
+
+ }
