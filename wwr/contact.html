@@ -15,19 +15,22 @@
 <body>
     <header>
         
-        <div class="grid"><nav class="menu">
-            <img src="images/logo.jpg" alt="Logo">
-            <a  href="https://yubranibyu.github.io/wdd130/wwr/Home.html">Home</a>
-            <a href="https://yubranibyu.github.io/wdd130/wwr/about.html">About</a>
-            <a href="https://yubranibyu.github.io/wdd130/wwr/trips.html">Trips</a>
-            <a href="https://yubranibyu.github.io/wdd130/wwr/contact.html">Contact</a>
-            
-        </nav>
+        <div class="grid">
+            <nav class="menu">
+                <img src="images/logo.avif" alt="Logo" width="150" height="150" class="logo_img">
+                <a  href="https://yubranibyu.github.io/wdd130/wwr/Home.html">Home</a>
+                <a href="https://yubranibyu.github.io/wdd130/wwr/about.html">About</a>
+                <a href="https://yubranibyu.github.io/wdd130/wwr/trips.html">Trips</a>
+                <a href="https://yubranibyu.github.io/wdd130/wwr/contact.html">Contact</a>
+                
+            </nav>
         </div>
 
+       
         <h1 class="contact_title">Contact us</h1>
 
         <div class="happy_employees">
+            
             <figure class="happyemployees">
                 <img src="images/happyemployee1.jpeg" alt="happyemployee1" width="200" height="150">
                 <figcaption class="subtitleimghappy">Happy employees raising hands</figcaption>
@@ -51,41 +54,13 @@
         <div class="contact-us-content">
             <form action="contact-us">
                 <fieldset>
-                    <legend>Contact information</legend>
-                    <div class="form-item column2">
-                    <label for="fullname">Full name</label>
-                    <input type="text" id="fullname" name="fullname">
-                    </div> 
-                    <div class="form-item column2">
-                    <label for="useremail">Email:</label>
-                    <input type="email" id="useremail" name="useremail">
-                    </div>
-
-
-                </fieldset>
-                <fieldset>
+             
+                    <input type="text" id="fullname" name="fullname" placeholder="Full name">
+                    <input type="email" id="useremail" name="useremail" placeholder="Email">
                     <legend>Leave us a message</legend>
-                    <label class="website_question" id="website-suggestion-question">What is the subject of your message?</label>
-                    <div class="general-inquiry">
-                        <input type="radio" name="general-inquiry-input1" id="general-inquiry-input">
-                        <label class="website-suggestion-inquiry" id="general-inquiry-label">General Inquiry</label>
-                    </div>
-                    <div class="reservation-question">
-                        <input type="radio" name="reservation-question" id="reservation-question">
-                        <label for="reservation-question">Reservation Question</label>
-                    </div>
-                    <div class="website-suggestion">
-                        <input type="radio" name="website-suggestion" id="website-suggestion">
-                        <label for="website-suggestion">Website Suggestion</label>
-                    </div>
-                    
-                    <textarea name="feedback" id="feedback"></textarea>
-                    <div>
-                        <input type="checkbox" name="pet" id="pet">
-                        <label for="feedback">Please subscribe me to the monthly newsletter</label>
-                    </div>
+                    <textarea name="feedback" id="feedback" placeholder="Type your message"></textarea>
                 </fieldset>
-
+                
                 <button type="submit" class="contact_button">Submit message</button>
             </form>
             <div class="contact-information">
